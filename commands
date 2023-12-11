@@ -8,4 +8,4 @@ docker build -t list-app .
 docker run -d -p 3000:3000 list-app
 
 
-docker run -d --name list-app -p 8000:8000 akashbkochure/Python-List-App-ADD-DELETE-Docker-Application:latest
+docker run -d --name list-app -p 8000:8000 akashbkochure/python-list-app-add-delete-docker-application:latest
